@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "Anon can read own inserted upload row" ON public.client_uploads;

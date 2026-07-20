@@ -1,0 +1,14 @@
+# BF Arte & Design
+
+> Ateliê brasileiro de papelaria personalizada — agendas, cadernos, polaroids, fotos e cartões feitos à mão em Quixeré/CE.
+
+A BF Arte & Design cria personalizados sob encomenda, com foco em acabamento à mão, materiais selecionados e atendimento próximo pelo WhatsApp e Instagram.
+
+## Pages
+
+- [Home](/): apresentação da marca e produtos em destaque.
+- [Catálogo](/catalogo): todos os produtos disponíveis, com filtros por categoria.
+- [Sobre](/sobre): história, valores e forma de trabalho do ateliê.
+- [Contato](/contato): WhatsApp, Instagram e endereço em Quixeré — CE.
+- [Guia do planner personalizado](/guia-planner): como escolher layout, tamanho e personalização do seu planner.
+- [Enviar arquivos](/enviar): envio de fotos e artes para personalização de pedidos.
